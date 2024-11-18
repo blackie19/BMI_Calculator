@@ -14,3 +14,19 @@ body{
     background-size:cover;
 
 }
+ #nav{
+    background: linear-gradient(to bottom, #161a27fa, #70a172); /* From green to light green */
+    padding: 10px 20px;
+  height: 90px;
+  
+  
+}
+#nav-element{
+    margin:10px;
+    padding: 10px 30px;
+    font-size: 2rem;
+    font-weight: stronger;
+    color:#75c9ce ;
+   /** background-color:#78A083 ; **/
+
+}
