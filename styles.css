@@ -14,7 +14,7 @@ body{
     background-size:cover;
 
 }
- #nav{
+ {
     background: linear-gradient(to bottom, #161a27fa, #70a172); /* From green to light green */
     padding: 10px 20px;
   height: 90px;
@@ -30,3 +30,9 @@ body{
    /** background-color:#78A083 ; **/
 
 }
+  .navbar-nav {
+    margin-left: auto; /* Pushes content to the right */
+
+  }
+
+
